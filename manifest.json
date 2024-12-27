@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "My First Chrome Extension",
-    "version": "1.0",
-    "description": "A simple Chrome extension to demonstrate functionality.",
+    "name": "untitled",
+    "version": "0.0.1",
+    "description": "description_goes_here",
     "icons": {
         "16": "./icons/app/16.png",
         "48": "./icons/app/48.png",
